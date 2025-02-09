@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Read the data
-df = pd.read_csv(r"C:\Users\mythi\Desktop\Celeste_stats_project\Data\Celeste_responses_data.csv")
+df = pd.read_csv(r"your path here")
 
 # Define the correct order for percentiles (from highest to lowest)
 percentile_order = [
